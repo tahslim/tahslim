@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tahslim
-- 👀 I’m interested in Blockchain Technologies, Smart Contract Auditing/Security, Solidity Programming, NFTs and DeFi
-- 🌱 I’m currently into Smart Contract Auditing/Security, Symbolic Execution, Fuzzing, Solidity Programming, NFTs and DeFi
-- 💞️ I’m looking to collaborate on Smart Contract development and reviews.
+- 👀 I’m interested in Machine Learning model builds, Large Language Model training & optimization and Blockchain Technologies
+- 🌱 I’m currently into Smart Contract Auditing/Security, Fine-tuning & Quantization of LLMs.
+- 💞️ I’m looking to collaborate on different ML research development and reviews.
 - 📫 How to reach me via harountaslim@gmail.com
 
